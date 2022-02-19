@@ -1,2 +1,15 @@
-# casino_roulette_eth
- Casino_roulette_eth is a fully decentralized and autonomous Casino on the Ethereum blockchain. In a regular casino, there is a single owner who operates the casino and brings in the profits. Casino_Roulette_Eth disrupts this process by allowing anyone to invest in the autonomously functioning casino contract. Players can then play roulette using this casino contract without the need for any intermediaries.
+# Basic Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/sample-script.js
+npx hardhat help
+```
